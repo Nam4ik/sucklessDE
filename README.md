@@ -1,0 +1,2 @@
+# sucklessDE
+Lightweight and powerfull
