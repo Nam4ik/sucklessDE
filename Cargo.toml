@@ -1,0 +1,9 @@
+[package]
+name = "sucklessDE"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dbus = "0.9.9"
+qt = "0.9.3"
+wayland = "0.0.2"
